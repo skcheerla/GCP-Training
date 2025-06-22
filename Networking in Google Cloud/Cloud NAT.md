@@ -48,3 +48,13 @@ Cloud NAT works by performing Network Address Translation (NAT) on outgoing traf
 * **Private GKE Clusters:** Enabling internet access for pods and nodes within private Google Kubernetes Engine clusters.
 
 In essence, Cloud NAT acts as a secure and scalable intermediary, allowing your private GCP resources to interact with the outside world while maintaining their internal privacy.
+
+
+
+![image](https://github.com/user-attachments/assets/e52376d2-c864-4b56-9804-ab0aad1992f9)
+
+
+![image](https://github.com/user-attachments/assets/7fcc68d1-446b-4e5e-9cad-6f4602c49c40)
+
+
+
