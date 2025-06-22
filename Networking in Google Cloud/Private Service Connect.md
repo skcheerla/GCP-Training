@@ -40,6 +40,7 @@ Instead of sending traffic over the public internet, PSC enables communication u
 ![image](https://github.com/user-attachments/assets/0aba2329-73bc-4825-8e2d-51ccd0d02ea3)
 
 
+![image](https://github.com/user-attachments/assets/13eb0f33-180f-4a99-956e-c7acca2523ae)
 
 
 ## Comparison with AWS PrivateLink
