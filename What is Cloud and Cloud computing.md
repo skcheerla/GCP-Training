@@ -24,6 +24,9 @@ It's the actual *practice* of using and accessing those shared, remote resources
 * **Rapid elasticity:** Resources can be quickly and automatically scaled up or down to meet fluctuating demand.
 * **Measured service:** Usage is monitored and billed based on consumption, similar to a utility bill.
 
+![image](https://github.com/user-attachments/assets/44edc9a3-2621-4c3d-9ca6-5ac0c02d6ff9)
+
+
 ## Who/When Invented This Concept?
 
 The concept of "cloud computing" didn't emerge from a single "eureka!" moment or a single inventor. Instead, it evolved over many decades through a series of foundational ideas and technological advancements.
