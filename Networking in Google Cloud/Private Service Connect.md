@@ -70,6 +70,7 @@ Instead of sending traffic over the public internet, PSC enables communication u
 
 ![image](https://github.com/user-attachments/assets/170bf1a6-fad3-43e5-bd1a-feaaa5f9a608)
 
+![image](https://github.com/user-attachments/assets/bc232670-fa25-4f08-84fb-0fd994420a53)
 
 
 
