@@ -18,6 +18,15 @@ Here's how it generally works:
 
 It's important to note that GCP also has **Private Service Connect (PSC)** and **Private Google Access (PGA)**, which serve similar but distinct purposes. While PSA is about connecting to Google-managed services (like databases) that are themselves in a VPC, PSC offers broader private connectivity to a wider range of Google services (APIs like Cloud Storage, BigQuery) and also allows service producers to publish their services privately for consumption by other GCP users. PGA specifically enables VMs *without* external IP addresses to reach Google APIs and services using internal IPs.
 
+
+![image](https://github.com/user-attachments/assets/f7df0427-a4be-4e4b-8286-8cc725d2613f)
+
+
+![image](https://github.com/user-attachments/assets/fc2926f0-62ef-41e8-80f0-3961ca82c97a)
+
+
+
+
 ### Similar Service in AWS
 
 The most similar service to GCP's Private Service Access in AWS is **AWS PrivateLink**.
