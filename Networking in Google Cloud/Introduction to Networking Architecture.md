@@ -7,6 +7,10 @@ Google Cloud Platform (GCP) has a strong reputation for its networking capabilit
 ![image](https://github.com/user-attachments/assets/3c0b71d4-c199-4480-9f81-50262b129dab)
 
 
+![image](https://github.com/user-attachments/assets/23117f47-5555-46d9-a234-abf4c2d21fdb)
+
+
+
 ![image](https://github.com/user-attachments/assets/5e007187-8b25-47d1-8816-7947f80d2af0)
 
 
