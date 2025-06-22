@@ -6,7 +6,7 @@ Google Cloud Private Service Connect (PSC) is a networking capability that allow
 
 Instead of sending traffic over the public internet, PSC enables communication using internal IP addresses, keeping the traffic entirely within Google's backbone network. This provides enhanced security, reduced latency, and simplified network management.
 
-![image](https://github.com/user-attachments/assets/ed201d0c-9a5a-49f8-8d72-e0f1f8032a37)
+
 
 
 **Key Features and Concepts:**
@@ -30,6 +30,8 @@ Instead of sending traffic over the public internet, PSC enables communication u
 4.  **IP Address Management:** Consumers can use their own internal IP addresses for accessing services, making IP address management easier and avoiding conflicts.
 5.  **Granular Control:** The authorization model allows fine-grained control over which consumers can access specific producer services.
 6.  **Enables SaaS Delivery:** It allows SaaS providers to securely and privately offer their services to customers within Google Cloud, facilitating multi-tenant architectures without exposing their infrastructure to the public internet.
+
+![image](https://github.com/user-attachments/assets/ed201d0c-9a5a-49f8-8d72-e0f1f8032a37)
 
 ## Comparison with AWS PrivateLink
 
