@@ -50,6 +50,22 @@
 
 # BYOIP ( Bring your own IP)
 
+
+
+
+![image](https://github.com/user-attachments/assets/ed886abc-2a6f-401c-bb5c-844e864af71a)
+
+
+![image](https://github.com/user-attachments/assets/58bbe706-14e7-4a71-bab2-be873ad97788)
+
+
+
+![image](https://github.com/user-attachments/assets/8141710f-d9d0-4226-ac52-8df2a2c7107a)
+
+
+
+
+
 # Cloud DNS
 
 
