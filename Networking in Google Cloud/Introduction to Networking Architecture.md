@@ -2,6 +2,8 @@
 
 Google Cloud Platform (GCP) has a strong reputation for its networking capabilities, often cited as a key differentiator. This isn't just about speed; it encompasses a global infrastructure, advanced services, and a unique architectural approach that provides significant advantages over other cloud platforms like AWS and Azure.
 
+## Major Loactions 
+
 ![image](https://github.com/user-attachments/assets/3c0b71d4-c199-4480-9f81-50262b129dab)
 
 
