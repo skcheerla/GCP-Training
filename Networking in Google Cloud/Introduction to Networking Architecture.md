@@ -1,17 +1,19 @@
+## Networking on Google Cloud
+
+Google Cloud Platform (GCP) has a strong reputation for its networking capabilities, often cited as a key differentiator. This isn't just about speed; it encompasses a global infrastructure, advanced services, and a unique architectural approach that provides significant advantages over other cloud platforms like AWS and Azure.
+
+![image](https://github.com/user-attachments/assets/3c0b71d4-c199-4480-9f81-50262b129dab)
 
 
 ![image](https://github.com/user-attachments/assets/5e007187-8b25-47d1-8816-7947f80d2af0)
 
 
-Google Cloud Platform (GCP) has a strong reputation for its networking capabilities, often cited as a key differentiator. This isn't just about speed; it encompasses a global infrastructure, advanced services, and a unique architectural approach that provides significant advantages over other cloud platforms like AWS and Azure.
+## Here's a breakdown of networking on Google Cloud and its advantages:
 
-Here's a breakdown of networking on Google Cloud and its advantages:
-
-## Networking on Google Cloud
 
 At its core, Google Cloud's networking leverages Google's own global private fiber network, which powers services like Google Search, YouTube, and Gmail. This network is massive and spans the globe, providing a high-performance, low-latency backbone for all GCP services.
 
-Key networking components and features in Google Cloud include:
+### Key networking components and features in Google Cloud include:
 
 * **Virtual Private Cloud (VPC) Network:** This is the foundational building block for your network in GCP. It's a global resource, meaning you can have subnets in different regions within a single VPC network, simplifying network design and management.
 * **Subnets:** Within a VPC, you create subnets, which are IP address ranges that define your network segments.
