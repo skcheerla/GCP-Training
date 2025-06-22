@@ -33,6 +33,10 @@ Instead of sending traffic over the public internet, PSC enables communication u
 
 ![image](https://github.com/user-attachments/assets/ed201d0c-9a5a-49f8-8d72-e0f1f8032a37)
 
+
+![image](https://github.com/user-attachments/assets/3e46a82e-4d63-4cb9-b82e-6b5c0c31e45e)
+
+
 ## Comparison with AWS PrivateLink
 
 AWS PrivateLink is Amazon Web Services' equivalent service to GCP Private Service Connect, offering similar capabilities for private connectivity.
