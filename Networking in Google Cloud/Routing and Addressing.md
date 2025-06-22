@@ -8,6 +8,9 @@
 
 # Routes and route preferences
 
+![image](https://github.com/user-attachments/assets/b9a1e22b-38af-4353-bc2c-b6de01e1b029)
+
+
 # IPV6
 
 
