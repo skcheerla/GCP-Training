@@ -57,4 +57,21 @@ In essence, Cloud NAT acts as a secure and scalable intermediary, allowing your 
 ![image](https://github.com/user-attachments/assets/7fcc68d1-446b-4e5e-9cad-6f4602c49c40)
 
 
+![image](https://github.com/user-attachments/assets/b7410df0-ab9b-45d3-bf52-3b0666ddbf7b)
+
+![image](https://github.com/user-attachments/assets/58e8c9c5-2663-425e-ad13-58a14c09aa3e)
+
+![image](https://github.com/user-attachments/assets/2142a231-a24b-4c6c-95b3-4a777ea1c730)
+
+
+![image](https://github.com/user-attachments/assets/362bf4c4-033a-4295-b459-6c500e1faf90)
+
+![image](https://github.com/user-attachments/assets/026415cf-15c2-43b3-8b6d-7741773def51)
+
+
+
+
+
+
+
 
