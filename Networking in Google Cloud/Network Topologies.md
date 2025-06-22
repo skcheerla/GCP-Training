@@ -18,5 +18,26 @@
 # Mesh Topology
 
 
+![image](https://github.com/user-attachments/assets/5512a869-fab7-4b97-bb9c-7f1d21d67f6c)
+
+
+# Mirrored Topology 
+
+
+![image](https://github.com/user-attachments/assets/2050e498-6050-4aa5-a7e7-471a10d9279d)
+
+# Gating Topologies
+
+
+![image](https://github.com/user-attachments/assets/ad33ae8e-512c-4094-97e1-84bf2fb2746d)
+
+
+
+
+
+
+
+
+
 
 
