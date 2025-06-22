@@ -31,7 +31,11 @@ It's important to note that GCP also has **Private Service Connect (PSC)** and *
 
 ![image](https://github.com/user-attachments/assets/8a168d40-7558-4b81-b892-66a40b5451e4)
 
-![image](https://github.com/user-attachments/assets/a3b9ac22-a441-40dc-b16e-ebd6fe6ad7ab)
+![image](https://github.com/user-attachments/assets/51bba83c-d2a1-4a84-8fae-9850b6ccfa59)
+
+![image](https://github.com/user-attachments/assets/9c7eba1c-6ea3-42d3-a7a5-d221d4c6d316)
+
+
 
 
 ### Similar Service in AWS
