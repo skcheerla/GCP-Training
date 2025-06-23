@@ -1,5 +1,10 @@
 **Cloud IDS (Intrusion Detection System) in GCP** is a fully managed, cloud-native intrusion detection service that helps you identify and alert on network-based threats within your Google Cloud environment. It's built with industry-leading threat detection technologies from Palo Alto Networks, providing robust capabilities for detecting intrusions, malware, spyware, command-and-control attacks, and other malicious activities.
 
+
+![image](https://github.com/user-attachments/assets/13f8188c-e0f1-49c5-8541-c520e87b3f7d)   
+
+
+
 **How it works:**
 
 Cloud IDS operates by creating a Google-managed peered network with mirrored virtual machine (VM) instances. You configure **Packet Mirroring policies** to send copies of your network traffic (both north-south, i.e., internet-facing, and east-west, i.e., VM-to-VM communication) to a dedicated **IDS endpoint**. This IDS endpoint then performs deep packet inspection and threat analysis using a continuously updated set of threat signatures and application identification (App-ID) capabilities.
