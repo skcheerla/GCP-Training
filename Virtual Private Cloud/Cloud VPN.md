@@ -2,6 +2,10 @@ Cloud VPN in Google Cloud Platform (GCP) is a managed service that allows you to
 
 Essentially, Cloud VPN extends your existing private network into GCP, making your cloud resources appear as if they are part of your on-premises network (and vice-versa) for the purposes of internal communication.
 
+![image](https://github.com/user-attachments/assets/55f9df4e-feed-4c06-9974-0d5e20ccc6f6)
+
+
+
 **Key Features and Characteristics:**
 
 * **IPsec VPN:** Uses the IPsec protocol suite for secure communication, including authentication and encryption.
