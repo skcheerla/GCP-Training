@@ -4,6 +4,13 @@ While Identity and Access Management (IAM) controls *who* can access what, Acces
 
 ACM is especially powerful when used in conjunction with **VPC Service Controls**, where it defines the "Access Levels" that dictate who can bypass a service perimeter. However, ACM can also be used independently for other context-aware access control needs.
 
+
+![image](https://github.com/user-attachments/assets/f45c78ff-47ae-468a-82d4-341e6caa0064)
+
+![image](https://github.com/user-attachments/assets/3d4867fb-56e1-4d51-9c00-970cebf15b08)
+
+
+
 **Key Concepts of Access Context Manager:**
 
 * **Access Policy:** This is the top-level container for all your Access Context Manager configurations within a GCP organization. You define it at the organization level.
