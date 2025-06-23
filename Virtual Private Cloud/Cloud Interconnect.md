@@ -23,6 +23,7 @@ Regardless of the type, both Cloud Interconnect options use Cloud Routers with B
 
 
 
+![image](https://github.com/user-attachments/assets/c81aedae-b2f2-46a6-a260-5c36542f8431)
 
 
 ---
