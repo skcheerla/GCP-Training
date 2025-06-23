@@ -8,6 +8,10 @@ Essentially, Cloud VPN extends your existing private network into GCP, making yo
 
 ![image](https://github.com/user-attachments/assets/5f725b7c-a1ec-4c9d-b30a-d58709ac69dc)
 
+## Cloud Router automatically added new subnet :
+
+![image](https://github.com/user-attachments/assets/fd7e5333-32fd-4cfc-8790-ef4b12816ecf)
+
 
 
 
