@@ -6,14 +6,14 @@ There are three main types of IAM roles in GCP:
 2.  **Predefined Roles**
 3.  **Custom Roles**
 
-![image](https://github.com/user-attachments/assets/741b4fe7-e636-4b73-8fa8-f6efc85b5f12)
-
 
 Let's explore each in detail:
 
 ### 1. Basic (Primitive) Roles
 
 These are the oldest and broadest roles in GCP IAM, predating the full IAM system. They grant a very wide range of permissions across *all* Google Cloud services within a project. Due to their broad nature, they are generally **not recommended for use in production environments** unless absolutely necessary or for initial setup where a highly privileged account is needed.
+
+![image](https://github.com/user-attachments/assets/741b4fe7-e636-4b73-8fa8-f6efc85b5f12)
 
 The three basic roles are:
 
