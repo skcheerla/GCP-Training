@@ -4,6 +4,10 @@ Let's break down each concept and then see how they interact.
 
 ### GCP Resource Hierarchy
 
+
+![image](https://github.com/user-attachments/assets/960599e0-0dd9-4b79-aa5a-83ab0e844357)
+
+
 The GCP Resource Hierarchy is a fundamental concept that provides a structured way to organize and manage your cloud resources. It's like a file system for your cloud assets, allowing you to apply policies and permissions at different levels, which then trickle down.
 
 The hierarchy typically follows this structure:
