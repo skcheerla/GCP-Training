@@ -14,6 +14,13 @@ Essentially, VPC Flow Logs record metadata about network connections, not the ac
 
 VPC Flow Logs can be enabled at the subnet level, for Cloud VPN tunnels, and for Cloud Interconnect VLAN attachments. The logs are collected and sent to Cloud Logging, from where they can be exported to other destinations like BigQuery, Cloud Storage, or Pub/Sub for further analysis.
 
+
+![image](https://github.com/user-attachments/assets/f9be5973-94f8-49d6-a747-4fe60333720b)
+
+![image](https://github.com/user-attachments/assets/c8084a41-a3d1-4cba-9c00-ccf5cad5fa9f)
+
+
+
 ### Real-Time Scenarios Where VPC Flow Logs are Used:
 
 VPC Flow Logs are invaluable for a wide range of operational and security use cases in GCP:
