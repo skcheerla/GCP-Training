@@ -2,6 +2,10 @@
 
 Essentially, Firewall Insights acts like a smart assistant for your GCP firewall configurations, helping you maintain a strong security posture while improving network efficiency.
 
+![image](https://github.com/user-attachments/assets/7a1bc4e5-7c4d-4284-83b7-bb225f119af5)  
+
+
+
 ### What does Firewall Insights provide?
 
 Firewall Insights offers several key capabilities:
