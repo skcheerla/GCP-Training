@@ -3,6 +3,10 @@
 
 ![image](https://github.com/user-attachments/assets/8030f871-e0ad-4d23-818f-1457ba21cd71)
 
+
+![image](https://github.com/user-attachments/assets/fd0b29d4-4378-4d13-a4aa-53341abfcde4)
+
+
 VPC Firewall Rules in Google Cloud Platform (GCP) are a fundamental security component that allows you to control network traffic to and from your Virtual Machine (VM) instances within a VPC network. They act as distributed, stateful firewalls that are enforced at the instance level, protecting your VMs regardless of their operating system or configuration.
 
 ### Importance of VPC Firewall Rules in GCP
