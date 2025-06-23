@@ -4,6 +4,8 @@ Essentially, Cloud VPN extends your existing private network into GCP, making yo
 
 ![image](https://github.com/user-attachments/assets/55f9df4e-feed-4c06-9974-0d5e20ccc6f6)
 
+![image](https://github.com/user-attachments/assets/ce6bf888-510d-4be6-a629-d09330b8d6fe)  
+
 
 
 **Key Features and Characteristics:**
