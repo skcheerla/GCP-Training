@@ -4,6 +4,7 @@ Cloud Interconnect in Google Cloud Platform (GCP) is a high-bandwidth, low-laten
 
 
 
+
 There are two primary types of Cloud Interconnect:
 
 1.  **Dedicated Interconnect:** You establish a direct, physical fiber connection between your network (or a colocation facility where your network equipment is housed) and a Google point of presence (PoP). You typically manage the cross-connects and routing equipment yourself. This option offers the highest bandwidth (10 Gbps or 100 Gbps circuits) and is suitable for organizations with significant network needs.
@@ -11,6 +12,10 @@ There are two primary types of Cloud Interconnect:
 2.  **Partner Interconnect:** You connect to Google's network through a supported third-party service provider. This is ideal if your data center isn't located in a Google PoP or if you prefer to leverage a service provider to manage the physical connection. Partner Interconnect offers a wider range of bandwidth options, starting from 50 Mbps up to 50 Gbps.
 
 Regardless of the type, both Cloud Interconnect options use Cloud Routers with BGP (Border Gateway Protocol) to exchange routes between your on-premises network and your GCP VPC network, enabling seamless communication using internal IP addresses.
+
+![image](https://github.com/user-attachments/assets/4d8aed9e-92c8-45b5-bea2-c0a66feae7ce)
+
+
 
 ---
 
