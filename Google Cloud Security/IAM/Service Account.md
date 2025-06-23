@@ -11,8 +11,8 @@ Unlike regular user accounts that have passwords and are used for interactive lo
 * **Identified by an email address:** Every service account has a unique email address (e.g., `my-service-account@my-project-id.iam.gserviceaccount.com`).
 * **Types of Service Accounts:**
     * **User-managed service accounts:** These are accounts you create and manage yourself. They are commonly used as identities for your applications and workloads.
-    * **Default (Google-Managed) service accounts :** These are automatically created when you enable certain GCP services (like Compute Engine or App Engine). While convenient, it's generally recommended to create custom service accounts with least privilege for better security.
-    * **Service agents:** These are Google-managed service accounts that allow GCP services to access your resources on your behalf. You don't directly manage these.
+    * **Default service accounts :** These are automatically created when you enable certain GCP services (like Compute Engine or App Engine). While convenient, it's generally recommended to create custom service accounts with least privilege for better security.
+    * **Service agents:** These are **Google-managed service accounts** that allow GCP services to access your resources on your behalf. You don't directly manage these.
 
 ### Importance of Service Accounts in GCP:
 
