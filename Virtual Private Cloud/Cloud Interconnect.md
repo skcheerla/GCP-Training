@@ -1,5 +1,9 @@
 Cloud Interconnect in Google Cloud Platform (GCP) is a high-bandwidth, low-latency network connection service that allows you to extend your on-premises network directly into Google's global network. Unlike Cloud VPN which sends encrypted traffic over the public internet, Cloud Interconnect provides a dedicated, private connection that bypasses the public internet entirely. This results in more predictable performance, higher security, and often lower egress costs for large data transfers.
 
+![image](https://github.com/user-attachments/assets/b7739e78-e958-49f8-9e87-dc15513c17a4)
+
+
+
 There are two primary types of Cloud Interconnect:
 
 1.  **Dedicated Interconnect:** You establish a direct, physical fiber connection between your network (or a colocation facility where your network equipment is housed) and a Google point of presence (PoP). You typically manage the cross-connects and routing equipment yourself. This option offers the highest bandwidth (10 Gbps or 100 Gbps circuits) and is suitable for organizations with significant network needs.
