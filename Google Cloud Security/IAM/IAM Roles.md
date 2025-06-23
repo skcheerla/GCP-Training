@@ -46,6 +46,12 @@ These are the most commonly used roles in GCP IAM and are the recommended choice
 
 **Examples of Predefined Roles:**
 
+![image](https://github.com/user-attachments/assets/57a00081-b17b-4f72-a2f8-ea99868d3c15)
+
+![image](https://github.com/user-attachments/assets/45ed3e29-4365-4bfd-b91c-5ac5c6cafc4c)
+
+
+
 * **Compute Engine:**
     * `roles/compute.instanceAdmin.v1`: Grants full control over Compute Engine VM instances.
     * `roles/compute.networkAdmin`: Grants permissions to manage Compute Engine networks.
@@ -91,5 +97,9 @@ When predefined roles don't exactly match your specific security requirements (i
 * **Default to Predefined Roles:** Always try to use a predefined role first. They offer a good balance of security and ease of management.
 * **Consider Custom Roles when Necessary:** If predefined roles don't fit, then explore creating a custom role to adhere to the principle of least privilege.
 * **Avoid Basic Roles:** In production environments, basic roles (`Owner`, `Editor`, `Viewer`) should be used very sparingly due to their overly broad permissions.
+
+![image](https://github.com/user-attachments/assets/38cd8f24-4bc8-460e-80cf-53c806c20fb2)
+
+
 
 By effectively utilizing these different types of IAM roles, you can implement a robust, granular, and secure access control strategy for your Google Cloud environment.
