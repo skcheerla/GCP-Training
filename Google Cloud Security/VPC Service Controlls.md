@@ -2,6 +2,16 @@
 
 Think of it as a **virtual firewall for Google APIs**. While IAM controls *who* can access a resource, VPC Service Controls controls *where* that access can come from and *where* data can go. It restricts access to supported Google Cloud services based on network context and prevents data from leaving your defined perimeter.
 
+
+![image](https://github.com/user-attachments/assets/11248aa7-7c41-4422-a6c7-8a7bfa548546)
+
+![image](https://github.com/user-attachments/assets/12b9d098-389d-457e-b871-3aea26611ff0)
+
+![image](https://github.com/user-attachments/assets/23fbaa14-3f18-42d7-ba6e-1ca96173b7f5)
+
+
+
+
 **Key Concepts:**
 
 * **Service Perimeter:** This is the core concept. A service perimeter is a logical boundary that you define around a set of GCP projects and the Google-managed services within them. Any access to resources *inside* the perimeter from *outside* the perimeter (or vice-versa) is subject to the perimeter's rules.
