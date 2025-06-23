@@ -14,6 +14,9 @@ Think of it as a **virtual firewall for Google APIs**. While IAM controls *who* 
 
 ![image](https://github.com/user-attachments/assets/9478e60f-fe7a-42b0-ad85-97e6ceb5527e)
 
+![image](https://github.com/user-attachments/assets/3acc8ab0-e366-4446-a489-fd4c9e90d053)
+
+
 
 
 **Key Concepts:**
