@@ -1,5 +1,9 @@
 Shared VPC (Virtual Private Cloud) in Google Cloud Platform (GCP) is a networking feature that allows an organization to centralize and share a single VPC network and its subnets across multiple projects within the same organization. This means that resources (like Compute Engine instances, GKE clusters, etc.) from different "service projects" can reside in and utilize the network infrastructure defined in a "host project."
 
+
+![image](https://github.com/user-attachments/assets/cb5eb3a4-4cc6-48e6-b26d-b96ef11e8c1e)
+
+
 **Key Concepts of Shared VPC:**
 
 * **Host Project:** This is the central project that contains the Shared VPC network and its associated network resources (subnets, firewall rules, routes, Cloud Routers, VPNs, etc.). It's where the network is primarily managed.
