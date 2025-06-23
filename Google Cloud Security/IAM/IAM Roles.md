@@ -6,6 +6,9 @@ There are three main types of IAM roles in GCP:
 2.  **Predefined Roles**
 3.  **Custom Roles**
 
+![image](https://github.com/user-attachments/assets/741b4fe7-e636-4b73-8fa8-f6efc85b5f12)
+
+
 Let's explore each in detail:
 
 ### 1. Basic (Primitive) Roles
